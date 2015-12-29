@@ -1,2 +1,4 @@
 # spring-boot-microservice-config
-Configuration repository for Spring Cloud microservice example
+Configuration repository for CLY MS services.
+
+
